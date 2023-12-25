@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+jaydebeapi
+jwt
+influxdb-client
